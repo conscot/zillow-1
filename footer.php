@@ -3,7 +3,7 @@
                 <br>
                 <div class="row">
                     <div class="col-md-12 text-center">
-                        Thanks to Zillow for their web service.  Check it out ourself <a class="btn btn-sm btn-warning" target="_blank" href="http://www.zillow.com/howto/api/APIOverview.htm">here</a>
+                        Thanks to Zillow for their web service.  Check it out yourself <a class="btn btn-sm btn-warning" target="_blank" href="http://www.zillow.com/howto/api/APIOverview.htm">here</a>
                     </div>
                 </div>
                 <hr>
